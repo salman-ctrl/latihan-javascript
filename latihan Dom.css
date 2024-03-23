@@ -1,0 +1,23 @@
+/* .pokemon {
+    display: inline-block;
+    text-align: center;
+}
+
+.pokemon img {
+    display: block; */
+
+body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50vh;
+    margin: 0;
+}
